@@ -12,13 +12,32 @@
 
 ---
 
-### 🚀 我在维护的项目
+### 🚀 我的项目
+
+<div align="center">
+
+<a href="https://github.com/jichun29/cleanyourtv-k">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jichun29&repo=cleanyourtv-k&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/jichun29/Ydisks-Xianyu-Helper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jichun29&repo=Ydisks-Xianyu-Helper&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/jichun29/WP2TypechoPlus">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jichun29&repo=WP2TypechoPlus&theme=tokyonight&hide_border=true" />
+</a>
+<a href="https://github.com/jichun29/liKeYun_Huoma">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jichun29&repo=liKeYun_Huoma&theme=tokyonight&hide_border=true" />
+</a>
+
+</div>
 
 | 项目 | 说明 | 状态 |
 |---|---|---|
-| 📺 [cleanyourtv-k](https://github.com/jichun29/cleanyourtv-k) | CleanYourTV 中文定制版电视桌面 —— 小米/国产电视一键去广告，融合风景壁纸轮播、遥控器玻璃弹窗 | ✅ 持续更新 |
-| 🐟 [Ydisks-Xianyu-Helper](https://github.com/jichun29/Ydisks-Xianyu-Helper) | 闲鱼多账号自动发货 + AI 自动回复系统，含一键构建与灾备手册 | ✅ 稳定运行 |
-| 📝 [WP2TypechoPlus](https://github.com/jichun29/WP2TypechoPlus) | Typecho 博客迁移插件，二次重构 wordpress-to-typecho，支持分批导入 | ✅ 可用 |
+| 📺 [cleanyourtv-k](https://github.com/jichun29/cleanyourtv-k) | CleanYourTV 中文定制版电视桌面 —— 小米/国产电视一键去广告，风景壁纸轮播、遥控器玻璃弹窗 | ✅ 持续更新 |
+| 🐟 [Ydisks-Xianyu-Helper](https://github.com/jichun29/Ydisks-Xianyu-Helper) | 闲鱼多账号自动发货 + AI 自动回复系统，含一键构建脚本与灾备手册 | ✅ 稳定运行 |
+| 📝 [WP2TypechoPlus](https://github.com/jichun29/WP2TypechoPlus) | Typecho 博客迁移插件，二次重构 wordpress-to-typecho，支持分批导入、Emoji 兼容、路径自动替换 | ✅ 可用 |
+| 🔗 [liKeYun_Huoma](https://github.com/jichun29/liKeYun_Huoma) | 开源免费的微信私域活码系统，可上线运营 | ✅ 可用 |
 
 ---
 
@@ -30,6 +49,8 @@
 ![NAS](https://img.shields.io/badge/Home%20NAS-fnOS-orange?style=for-the-badge)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![青龙面板](https://img.shields.io/badge/%E9%9D%92%E9%BE%99%E9%9D%A2%E6%9D%BF-%E8%87%AA%E5%8A%A8%E5%8C%96-brightgreen?style=for-the-badge)
 ![Android TV](https://img.shields.io/badge/Android%20TV-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 
