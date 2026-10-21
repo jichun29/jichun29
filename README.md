@@ -19,15 +19,15 @@
 <a href="https://github.com/jichun29/cleanyourtv-k">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jichun29&repo=cleanyourtv-k&theme=tokyonight&hide_border=true" />
 </a>
-<a href="https://github.com/jichun29/Ydisks-Xianyu-Helper">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jichun29&repo=Ydisks-Xianyu-Helper&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/jichun29/kanle-tv">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jichun29&repo=kanle-tv&theme=tokyonight&hide_border=true" />
 </a>
 
+<a href="https://github.com/jichun29/xianyu-helper">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jichun29&repo=xianyu-helper&theme=tokyonight&hide_border=true" />
+</a>
 <a href="https://github.com/jichun29/WP2TypechoPlus">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=jichun29&repo=WP2TypechoPlus&theme=tokyonight&hide_border=true" />
-</a>
-<a href="https://github.com/jichun29/liKeYun_Huoma">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=jichun29&repo=liKeYun_Huoma&theme=tokyonight&hide_border=true" />
 </a>
 
 </div>
@@ -35,8 +35,10 @@
 | 项目 | 说明 | 状态 |
 |---|---|---|
 | 📺 [cleanyourtv-k](https://github.com/jichun29/cleanyourtv-k) | CleanYourTV 中文定制版电视桌面 —— 小米/国产电视一键去广告，风景壁纸轮播、遥控器玻璃弹窗 | ✅ 持续更新 |
-| 🐟 [Ydisks-Xianyu-Helper](https://github.com/jichun29/Ydisks-Xianyu-Helper) | 闲鱼多账号自动发货 + AI 自动回复系统，含一键构建脚本与灾备手册 | ✅ 稳定运行 |
+| 🎬 [kanle-tv](https://github.com/jichun29/kanle-tv) | 看了么TV 电视端影视 App 定制版 —— 去广告 / 去更新 / 去水印，侧边分类 UI + 视频区放大 | ✅ 有 APK |
+| 🐟 [xianyu-helper](https://github.com/jichun29/xianyu-helper) | 私人定制版闲鱼助手 —— 多账号自动发货 + AI 自动回复，支持 Docker 自部署与灾备重建 | ✅ 稳定运行 |
 | 📝 [WP2TypechoPlus](https://github.com/jichun29/WP2TypechoPlus) | Typecho 博客迁移插件，二次重构 wordpress-to-typecho，支持分批导入、Emoji 兼容、路径自动替换 | ✅ 可用 |
+| 🐟 [Ydisks-Xianyu-Helper](https://github.com/jichun29/Ydisks-Xianyu-Helper) | 闲鱼助手灾备仓库，含一键构建脚本与灾备手册，可从零重建镜像 | ✅ 灾备就绪 |
 | 🔗 [liKeYun_Huoma](https://github.com/jichun29/liKeYun_Huoma) | 开源免费的微信私域活码系统，可上线运营 | ✅ 可用 |
 
 ---
