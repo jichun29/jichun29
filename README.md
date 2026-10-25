@@ -6,7 +6,7 @@
 
 ### 🏠 家庭 NAS 玩家 · 🛠️ 自动化折腾 · ☁️ 二九Cloud
 
-<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=19&pause=1400&color=36BCF7&center=true&vCenter=true&width=660&height=44&lines=%E6%8A%8A%E5%AE%B6%E9%87%8C%E7%9A%84%20NAS%20%E6%8A%98%E8%85%BE%E6%88%90%E5%85%A8%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BD%9C%E5%86%99%E4%B8%8D%E5%AE%8C%E7%9A%84%E8%84%9A%E6%9C%AC%EF%BD%9C%E7%BB%99%E7%94%B5%E8%A7%86%E4%B8%80%E5%9D%97%E5%B9%B2%E5%87%80%E7%9A%84%E7%8E%BB%E7%92%83%E6%A1%8C%E9%9D%A2" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Noto+Sans+SC&size=19&pause=1400&color=36BCF7&center=true&vCenter=true&width=520&height=42&lines=%E6%8A%8A%E5%AE%B6%E9%87%8C%E7%9A%84%20NAS%20%E6%8A%98%E8%85%BE%E6%88%90%E5%85%A8%E8%83%BD%E6%9C%8D%E5%8A%A1%E5%99%A8%EF%BD%9C%E7%BB%99%E7%94%B5%E8%A7%86%E4%B8%80%E5%9D%97%E5%B9%B2%E5%87%80%E7%9A%84%E7%8E%BB%E7%92%83%E6%A1%8C%E9%9D%A2" alt="Typing SVG" />
 
 <a href="https://tv.jichun29.cn">
   <img src="https://img.shields.io/badge/GlassTV-%E7%8E%BB%E7%92%83%E6%A1%8C%E9%9D%A2-36BCF7?style=for-the-badge&logo=android&logoColor=white" alt="GlassTV" />
